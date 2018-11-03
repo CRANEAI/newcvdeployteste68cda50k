@@ -1,0 +1,6 @@
+
+        rootProject.name = 'new_cv_deploy_test'
+
+        include ':app'
+        /* add slim_filename application modules here */
+        
